@@ -1,0 +1,12 @@
+﻿  Tetris.cpp
+g:\projects\games\games\tetris.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\projects\games\games\tetris.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\projects\games\games\tetris.cpp(71): warning C4305: '=': truncation from 'double' to 'float'
+g:\projects\games\games\tetris.cpp(125): warning C4305: '=': truncation from 'double' to 'float'
+g:\projects\games\games\tetris.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+g:\projects\games\games\tetris.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+g:\projects\games\games\main.cpp(26): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+g:\projects\games\games\main.cpp(27): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+  Games.vcxproj -> G:\Projects\Games\Debug\Games.exe
